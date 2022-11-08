@@ -1,0 +1,46 @@
+// font family import from google
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,400;1,600&family=Roboto:ital,wght@0,500;1,300&display=swap');
+
+//global file
+@import"./base/global";
+//varaibles 
+@import"./abastract/varaibles";
+ //reset
+@import"./base/reset";
+
+//header
+@import"./components/header";
+
+//btn 
+@import"./components/btn";
+//form
+@import"./components/forms";
+//animations
+@import"./utilets/animation";
+//hoem page
+@import"./pages/home";
+//about page
+
+@import"./pages/about";
+//road map page
+@import"./pages/raodmap";
+
+
+//courese
+@import "./pages/courses";
+
+//contact
+
+@import"./pages/contact";
+
+//footer
+@import"./components/footer";
+//form
+
+@import"./components/forms";
+//spacing 
+
+@import "./utilets/spacing";
+
+//sign in page
+@import "./pages/sign_in";

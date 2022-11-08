@@ -1,0 +1,9 @@
+@use "../abastract/varaibles" as var;
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: var.$primary-font;
+    scroll-behavior: smooth;
+}
+
